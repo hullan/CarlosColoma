@@ -1,0 +1,37 @@
+PP: Entro en alerce en septiembre, no he coincidido.
+
+JA: Entro en alerce en septiembre, no he coincidido.
+
+RT: 
+
+  Puntos fuertes:
+  * Tiene mucha experiencia técnica.
+  * Siempre está dispuesto a ayudar a los compañeros.
+  * Es capaz de sacar el trabajo complicado.
+
+  Puntos débiles:
+  * Mejorar la comunicación con los analistas funcionales, muchas veces tiene que rehacer las cosas.
+  * Mejorar en los conocimientos funcionales.
+  * Pensar las cosas 2 veces antes de hacerlas.
+
+AG:
+
+  Puntos fuertes:
+  * Es una persona independiente, cuando le dices una tarea es capaz de sacarla
+  * Las cosas resueltas, están bien, la tasa de errores es muy baja.
+  * Tiene mucha experiencia técnica.
+  * interés por el producto, y el negocio. Muestra siempre interés por hacer cosas nuevas
+
+  Puntos débiles:
+  * Le cuesta aceptar sus errores, cuando algo tiene mal busca siempre envolver el problema
+  * Aceptar criticas constructivas
+
+ER:
+
+  Puntos fuertes:
+  * Es buena trabajadora, saca las tareas.
+  * Tiene interés por el producto y evolucionar.
+  
+  Puntos débiles:
+  * Tareas complicadas, le cuesta mucho sacarlas a delante, llega a atascarse.
+  * Necesita más experiencia técnica.
